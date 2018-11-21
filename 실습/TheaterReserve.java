@@ -49,5 +49,7 @@ public class TheaterReserve {
 }
 }
 
+//영화관 예약 이미 예약된곳은 예약하지 못하고 예약 안된곳을 예약한다. 
+
 
   

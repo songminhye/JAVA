@@ -16,6 +16,8 @@ root2 = (-b - Math.sqrt(dis))/2;
 System.out.println("근은" + root1);
 System.out.println("근은" + root2);
 
+//root 근 구하는 코드
+
 
 
  }

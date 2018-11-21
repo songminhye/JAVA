@@ -14,3 +14,5 @@ public class TypeConversion {
 
  }
 }
+
+//변수 변환형

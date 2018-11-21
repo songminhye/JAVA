@@ -77,3 +77,5 @@ public class MagazineTest{
 
 }
 }
+
+//생성자 등을 사용해본 코드

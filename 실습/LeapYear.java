@@ -8,5 +8,7 @@ public class LeapYear{
    isLeapYear = (year % 4 == 0);
    System.out.println(isLeapYear);
 
+//true false를 구한다. leapyear인지 아닌지
+
  }
 }

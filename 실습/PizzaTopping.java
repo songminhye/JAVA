@@ -17,3 +17,5 @@ for(int i=0; i<pizza; i++)
 }
 }
 }
+
+//topping을 모두 print한다. 

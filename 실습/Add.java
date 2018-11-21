@@ -21,6 +21,8 @@ public class Add {
   
   System.out.println(z);
 
+// 문자 두개를 받아와서 합치는 코드
+
 
  }
 }
